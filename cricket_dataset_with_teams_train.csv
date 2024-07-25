@@ -1,0 +1,45 @@
+Temperature,Humidity,Wind Speed,Venue Name,Team1 Name,Team2 Name,Toss Winner,Toss Decision,Team1 Win
+34 ,35,13 ,Narendra Modi Stadium,England,New Zealand,New Zealand,Bowl,0
+34 ,35 ,14 ,Rajiv Gandhi International Stadium,Pakistan,Netherlands,Netherlands,Bowl,1
+28 ,31 ,11 ,Himachal Pradesh Cricket Association Stadium,Afghanistan,Bangladesh,Bangladesh,Bowl,0
+31 ,32 ,2 ,Arun Jaitley Stadium,South Africa,Sri Lanka,Sri Lanka,Bowl,1
+34 ,36 ,10 ,MA Chidambaram Stadium,Australia,India,Australia,Bat,0
+34 ,35 ,12 ,Rajiv Gandhi International Stadium,New Zealand,Netherlands,Netherlands,Bowl,1
+28 ,30 ,12 ,Himachal Pradesh Cricket Association Stadium,England,Bangladesh,Bangladesh,Bowl,1
+34 ,34 ,12 ,Rajiv Gandhi International Stadium,Sri Lanka,Pakistan,Sri Lanka,Bat,0
+35 ,36 ,7 ,Arun Jaitley Stadium,Afghanistan,India,Afghanistan,Bat,0
+35 ,36 ,7 ,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,South Africa,Australia,Australia,Bowl,1
+36 ,36 ,6 ,MA Chidambaram Stadium,Bangladesh,New Zealand,New Zealand,Bowl,0
+36 ,37 ,9 ,Narendra Modi Stadium,Pakistan,India,India,Bowl,0
+35 ,37 ,10 ,Arun Jaitley Stadium,Afghanistan,England,England,Bowl,1
+34 ,35 ,10 ,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Sri Lanka,Australia,Sri Lanka,Bat,0
+35 ,35 ,10 ,Himachal Pradesh Cricket Association Stadium,Netherlands,South Africa,South Africa,Bowl,1
+35 ,35 ,10 ,MA Chidambaram Stadium,New Zealand,Afghanistan,Afghanistan,Bowl,1
+35 ,35 ,4 ,Maharashtra Cricket Association Stadium,Bangladesh,India,Bangladesh,Bat,0
+35 ,35 ,4 ,M Chinnaswamy Stadium,Australia,Pakistan,Pakistan,Bowl,1
+31 ,30 ,8 ,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Netherlands,Sri Lanka,Netherlands,Bat,0
+36 ,35 ,5 ,Wankhede Stadium,South Africa,England,England,Bowl,1
+36 ,34 ,5 ,Himachal Pradesh Cricket Association Stadium,New Zealand,India,India,Bowl,0
+35 ,34 ,6 ,MA Chidambaram Stadium,Pakistan,Afghanistan,Pakistan,Bat,0
+35 ,34 ,8 ,Wankhede Stadium,South Africa,Bangladesh,South Africa,Bat,1
+36 ,34 ,6 ,Arun Jaitley Stadium,Australia,Netherlands,Australia,Bat,1
+36 ,34 ,8 ,M Chinnaswamy Stadium,England,Sri Lanka,England,Bat,0
+35 ,33 ,2 ,MA Chidambaram Stadium,Pakistan,South Africa,Pakistan,Bat,0
+29 ,27 ,5 ,Himachal Pradesh Cricket Association Stadium,Australia,New Zealand,New Zealand,Bowl,1
+34 ,32 ,4 ,Eden Gardens,Netherlands,Bangladesh,Netherlands,Bat,1
+35 ,33 ,7 ,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,India,England,England,Bowl,1
+34 ,33 ,13 ,Maharashtra Cricket Association Stadium,Sri Lanka,Afghanistan,Afghanistan,Bowl,0
+34 ,32 ,13 ,Eden Gardens,Bangladesh,Pakistan,Bangladesh,Bat,0
+34 ,33 ,13 ,Maharashtra Cricket Association Stadium,South Africa,New Zealand,New Zealand,Bowl,1
+35 ,33 ,11 ,Wankhede Stadium,India,Sri Lanka,Sri Lanka,Bowl,1
+35 ,33 ,8 ,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Netherlands,Afghanistan,Netherlands,Bat,0
+29 ,28 ,6 ,M Chinnaswamy Stadium,New Zealand,Pakistan,Pakistan,Bowl,0
+34 ,33 ,5 ,Narendra Modi Stadium,Australia,England,England,Bowl,1
+35 ,33 ,10 ,Eden Gardens,India,South Africa,India,Bat,1
+35 ,33 ,12 ,Arun Jaitley Stadium,Sri Lanka,Bangladesh,Bangladesh,Bowl,0
+35 ,33 ,6 ,Wankhede Stadium,Afghanistan,Australia,Afghanistan,Bat,0
+35 ,33 ,7 ,Maharashtra Cricket Association Stadium,England,Netherlands,England,Bat,1
+35 ,33 ,2 ,M Chinnaswamy Stadium,Sri Lanka,New Zealand,New Zealand,Bowl,0
+35 ,33 ,8 ,Narendra Modi Stadium,Afghanistan,South Africa,Afghanistan,Bat,0
+35 ,29 ,14 ,Maharashtra Cricket Association Stadium,Bangladesh,Australia,Australia,Bowl,0
+35 ,33 ,8 ,Eden Gardens,England,Pakistan,England,Bat,1
