@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/style.css">
+    <title>Cricket Match Outcome Predictor</title>
+</head>
+<body>
+    <h1>Cricket Match Outcome Predictor</h1>
+    <form action="/predict" method="POST">
+        <label for="temperature">Temperature:</label>
+        <input type="number" step="0.1" name="temperature" required><br><br>
+
+        <label for="humidity">Humidity:</label>
+        <input type="number" step="0.1" name="humidity" required><br><br>
+
+        <label for="wind_speed">Wind Speed:</label>
+        <input type="number" step="0.1" name="wind_speed" required><br><br>
+
+        <label for="venue_name">Venue Name:</label>
+        <input type="text" name="venue_name" required><br><br>
+
+        <label for="team1_name">Team1 Name:</label>
+        <input type="text" name="team1_name" required><br><br>
+
+        <label for="team2_name">Team2 Name:</label>
+        <input type="text" name="team2_name" required><br><br>
+
+        <label for="toss_winner">Toss Winner:</label>
+        <input type="text" name="toss_winner" required><br><br>
+
+        <label for="toss_decision">Toss Decision:</label>
+        <input type="text" name="toss_decision" required><br><br>
+
+        <button type="submit">Predict Outcome</button>
+    </form>
+
+    {% if prediction_text %}
+        <h2>{{ prediction_text }}</h2>
+    {% endif %}
+</body>
+</html>
